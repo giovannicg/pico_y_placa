@@ -32,9 +32,6 @@ def chek_picoyplaca(placa:str, fecha:datetime):
         ultimo_digito = int(placa[-1])
         if chek_placa(ultimo_digito,fecha):
             val = chek_horario(fecha)
-    else :
-        print("The plate had to have  7 digits")
-        return False
 
     return val
             
