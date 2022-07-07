@@ -1,5 +1,5 @@
 # PICO Y PLACA PREDICTOR
-_Program that given a license plate a date and time tells you if you can drive or not depending on the Picoy Placa system_
+_Program that given a license plate a date and time tells you if you can drive or not depending on the Picoy Placa system._
 _In this program i am using python and pystest framework to run test_
 
 ## Instalation 🔧
