@@ -17,6 +17,9 @@ pytest -v
 ```
 To see details of the test
 
+## Tests
+To modificate the tests open 'test_picoyplaca' and change placa, fecha and the expected result
+
 ## Author ✒️
 Giovanni Capote
 
