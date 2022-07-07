@@ -51,7 +51,7 @@ def chek_horario (fecha:datetime):
 def chek_placa(digito:int,fecha:datetime):
     return (digito_placa[digito] == fecha.weekday())
 
-print(chek_picoyplaca('abc1231',datetime(2022,7,4,9,29,0)))
+
 
 
 
